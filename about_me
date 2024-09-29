@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>iHAVEGPU - เกี่ยวกับเรา</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f7fa;
+            color: #333;
+            line-height: 1.6;
+            text-align: center;
+        }
+        header {
+            background: linear-gradient(135deg, #007bff, #00d2d3);
+            color: #fff;
+            padding: 40px 20px;
+            text-align: center;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        nav {
+            background-color: #fff;
+            border-bottom: 1px solid #ddd;
+            padding: 15px 0;
+            text-align: center;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        nav a {
+            margin: 0 20px;
+            text-decoration: none;
+            color: #007bff;
+            font-weight: bold;
+            transition: color 0.3s, transform 0.3s;
+            font-size: 1.1em;
+        }
+        nav a:hover {
+            color: #0056b3;
+            transform: translateY(-2px);
+        }
+        main {
+            padding: 40px 20px;
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #007bff;
+            font-size: 2em;
+            margin-bottom: 20px;
+        }
+        p {
+            font-size: 1.1em;
+            margin: 10px 0;
+        }
+        footer {
+            background-color: #343a40;
+            color: #fff;
+            text-align: center;
+            padding: 15px 20px;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+            box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>iHAVEGPU</h1>
+    </header>
+    <nav>
+        <a href="index.html">หน้าหลัก</a>
+        <a href="about me.html">เกี่ยวกับเรา</a>
+        <a href="บริการ.html">บริการ</a>
+        <a href="Us Contact.html">ติดต่อเรา</a>
+    </nav>
+    <main>
+        <h2>เกี่ยวกับเรา</h2>
+        <p><strong>นายพิชัยภัทร์ หมวดทิพย์</strong> ม.6/9 เลขที่ 14 ชื่อเล่น ไนซ์</p>
+        <p><strong>นายพีรธัช ศรีเมือง</strong> ม.6/9 เลขที่ 19 ชื่อเล่น ปิ๊คอัพ</p>
+        <p><strong>นางสาวเบญญาภา แย้มปั้น</strong> ม.6/9 เลขที่ 37 ชื่อเล่น เหนือ</p>
+    </main>
+</body>
+</html>
